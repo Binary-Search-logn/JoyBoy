@@ -2,15 +2,6 @@
    <img src="https://ih1.redbubble.net/image.3700583962.6781/st,small,507x507-pad,600x600,f8f8f8.jpg" width="400" height="350">
 </p>
 
-<p align="center">
-    
-</p>
-
-Kaizoyu is an Android exclusive anime streaming platform¹. Watch anime for free
-without any torrents, web-scraping, or highly compressed online video files.
-
-[Want to jump right in?, download here](https://github.com/astarivi/Kaizoyu/releases)
-
 # Features
 
 - Simple interface, with high, and low contrast themes included
