@@ -24,7 +24,7 @@
 
 # Development
 
-Kaizoyu is mostly coded in Java, but Kotlin code is welcome.
+Joyboy is mostly coded in Java, but Kotlin code is welcome. I made this When kotlin is not the main langauge 
 The project is fully compatible with latest Canary build of Android Studio, and importing
 it there is the fastest way to get it working.
 
