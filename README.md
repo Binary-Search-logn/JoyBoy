@@ -16,7 +16,7 @@
 # Preview
 
 <p align="justify">
-    <img src="https://i.ibb.co/P9fg1hn/2.png" width="24%" />
+<!--     <img src="https://i.ibb.co/P9fg1hn/2.png" width="24%" /> -->
     <img src="https://i.ibb.co/0s7Xc5q/3.png" width="24%" />
     <img src="https://i.ibb.co/Dgm0mNP/4.png" width="24%" />
 </p>
