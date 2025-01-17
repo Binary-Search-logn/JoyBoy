@@ -38,7 +38,7 @@ Nonetheless, if you want to go the cool way:
 - Fetch latest stable source (or target main):
 
 ```bash
-git clone -b stable https://github.com/astarivi/Kaizoyu.git
+git clone -b stable https://github.com/astarivi/joyboy.git
 cd Kaizoyu
 ```
 
